@@ -1,0 +1,10 @@
+{
+    "extends": "vusion/vue",
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "rules": {
+        "multiline-ternary":"off"
+    }
+}
